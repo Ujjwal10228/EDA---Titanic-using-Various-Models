@@ -1,1 +1,1 @@
-# EDA---Titanic-using-Various-Models
+# Survival Prediction Model
